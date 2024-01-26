@@ -3,6 +3,6 @@
 ## In vitro
 
 * Faj Ekranı -> Faj Partikülere üzerindeki poliptilerle fenotip ve genotip bağlantı kurulur.
-* Parça Tamamlama -> Protein etkileşimler belirlenmek için kütle strestokopisi kullnılır.
+* Parça Tamamlama -> Protein etkileşimler belirlenmek için kütle spektroskopisi kullnılır.
 * 
 
