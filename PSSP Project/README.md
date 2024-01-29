@@ -44,7 +44,7 @@ The dataset used is the [Protein Secondary Structure dataset](https://example-da
 
 We use several machine learning models, including:
 
-- Convolutional Neural Networks (CNN)
+- Naive Bayes
 - Recurrent Neural Networks (RNN)
 - Support Vector Machines (SVM)
 - Custom models as per ongoing experiments
