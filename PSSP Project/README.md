@@ -47,7 +47,7 @@ We use several machine learning models, including:
 - Naive Bayes
 - Recurrent Neural Networks (RNN)
 - Support Vector Machines (SVM)
-- Custom models as per ongoing experiments
+- Long Short-Term Memory (LSTM)
 
 ## Contributing
 
