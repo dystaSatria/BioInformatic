@@ -42,12 +42,17 @@ The dataset used is the [Protein Secondary Structure dataset](https://example-da
 
 ## Models
 
-We use several machine learning models, including:
+We use several machine learning and bioimodels, including:
 
 - Naive Bayes
 - Recurrent Neural Networks (RNN)
 - Support Vector Machines (SVM)
 - Long Short-Term Memory (LSTM)
+
+
+## Bioinformatic's Methods
+
+- EIIP (Electron-Ion Interaction Potential) method 
 
 ## Contributing
 
