@@ -63,8 +63,4 @@ Contributions to this project are welcome. Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Acknowledgments
 
-- Thanks to all the contributors who have helped with code, issues, and suggestions.
-- Special thanks to [XYZ University] for providing computational resources.
-- This project is inspired by the ongoing research in protein structure prediction.
