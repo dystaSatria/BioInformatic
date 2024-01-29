@@ -29,7 +29,6 @@ This project focuses on predicting the secondary structure of proteins using mac
 
 ```
 
-
 ### Usage
 
 1. Open the project notebook in Google Colab.
@@ -50,9 +49,10 @@ We use several machine learning and bioimodels, including:
 - Long Short-Term Memory (LSTM)
 
 
-## Bioinformatic's Methods
+## Mapping techniques
 
-- EIIP (Electron-Ion Interaction Potential) method 
+- EIIP (Electron-Ion Interaction Potential) method
+- CPNR (Complex Prime Numerical Representation ) method
 
 ## Contributing
 
