@@ -17,6 +17,16 @@ These instructions will get you a copy of the project up and running on your loc
 - Libraries: NumPy, Pandas, Matplotlib, TensorFlow/Keras (or any other ML library)
 - Basic understanding of bioinformatics
 
-### Installation
-Clone the repository:
+
+## Usage
+A step-by-step series of examples that tell you how to get a development env running.
+
+1. Load the dataset: `python load_dataset.py`
+2. Train the model: `python train_model.py`
+3. Evaluate the model: `python evaluate_model.py`
+4. Visualize the results: `python visualize_results.py`
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
